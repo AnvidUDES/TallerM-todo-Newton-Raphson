@@ -1,1 +1,0 @@
-# TallerM-todo-Newton-Raphson
